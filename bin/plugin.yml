@@ -1,0 +1,7 @@
+name: XplayRankUPSite
+author: Minatogamr42OFC
+version: 1.0
+main: minato.xplayrankup.site.Main
+commands:
+  site:
+   aliases: [loja]
